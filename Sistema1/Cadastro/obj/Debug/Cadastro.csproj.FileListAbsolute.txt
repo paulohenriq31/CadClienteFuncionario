@@ -1,0 +1,12 @@
+C:\Users\phhen\source\repos\Sistema1\Cadastro\bin\Debug\Cadastro.exe.config
+C:\Users\phhen\source\repos\Sistema1\Cadastro\bin\Debug\Cadastro.exe
+C:\Users\phhen\source\repos\Sistema1\Cadastro\bin\Debug\Cadastro.pdb
+C:\Users\phhen\source\repos\Sistema1\Cadastro\obj\Debug\Cadastro.csprojAssemblyReference.cache
+C:\Users\phhen\source\repos\Sistema1\Cadastro\obj\Debug\Cadastro.frmClientes.resources
+C:\Users\phhen\source\repos\Sistema1\Cadastro\obj\Debug\Cadastro.menu.resources
+C:\Users\phhen\source\repos\Sistema1\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+C:\Users\phhen\source\repos\Sistema1\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+C:\Users\phhen\source\repos\Sistema1\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\phhen\source\repos\Sistema1\Cadastro\obj\Debug\Cadastro.exe
+C:\Users\phhen\source\repos\Sistema1\Cadastro\obj\Debug\Cadastro.pdb
+C:\Users\phhen\source\repos\Sistema1\Cadastro\obj\Debug\Cadastro.frmFuncionarios.resources
